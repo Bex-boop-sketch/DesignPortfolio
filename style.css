@@ -62,7 +62,23 @@ section {
 
 .navigation {
 	background-color: #cc8b86;
-	justify-content: center;
+	justify-content: right;
+	color: #f9eae1;
+	
+}
+
+topsection {
+    background-color: #f9eae1;
+    color: #CC8b86;
+    
+}
+
+topsection a {
+    color: #f9eae1;
+}
+
+topsection a:hover {
+    color: #7d4f50;
 }
 /* 1. Hero Section with Centered Background */
 .hero-section {
