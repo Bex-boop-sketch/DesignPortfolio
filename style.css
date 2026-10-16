@@ -79,6 +79,14 @@ q {
     color: #7d4f50;
 }
 
+q2 {
+    font-style: italic;
+    font-size: 1rem;
+    display: block;
+    margin: 1.5rem 0;
+    color: #7d4f50;
+}
+
 /* Section Structure */
 section {
     padding: 60px 10%;
